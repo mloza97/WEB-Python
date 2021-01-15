@@ -1,0 +1,72 @@
+# Profile section
+profile:
+  first_name: Manuel
+  last_name: Loza
+  picture: static/img/mane.jpg
+  contact: 
+    phone: (418) 111 - 3647
+    address_one: Dolores Hidalgo, Guanajuato
+    address_two: 
+  email: lozacruzhm92@gmail.com
+  description: Soy desarrollador Java, experiencia en frameworks de JAVA utilizados para desarrollar 
+    API REST para la simplificacion de los problemas. Conocimiento en el desarrollo del Back-end utilizando
+    la arquitectura MVC.
+  
+# Social section
+social:
+  website: 
+  github: https://github.com/mloza97
+  linkedIn: https://linkedin.com/in/manuel-loza-567418193 
+  
+
+# Experience section
+experience:
+  item0:
+    position: Desarrollador Jr.
+    company: SOMA Tecnologia y Medios de Pago
+    from: 28 de Enero 2019
+    to: Present
+    description: >
+      Es una empresa formada por un grupo de profesionales en el
+      sector tecnológico y financiero (Intermediarios Financieros No Bancarios), especializado en micro
+      finanzas, que decidió crear una empresa para brindar soluciones al sector financiero (Non-Banking
+      Intermediarios Financieros) a través de una plataforma tecnológica robusta que incluye los mejores 
+      negocios prácticas para el sector.
+    link: http://www.somatecnologia.com.mx/
+
+# Education section
+education:
+  item1:
+    institution: Universidad Tecnologica del Norte de Guanajuato
+    program: Ing. Tecnologías de la Información y Comunicación
+    description: Licenciatura enfoca a la adminisración de proyectos de TI
+    from: Agosto 2019
+    to: Agosto 2021
+  item2:
+    institution: Universidad Tecnologica del Norte de Guanajuato
+    program: Sistemas Informáticos
+    description: TSU Area Sistemas Informáticos 
+    from: Agosto 2016
+    to: Julio 2018
+  
+
+# Skills section
+tools:
+  # Consider that the following are fa icons:
+  - java
+  - postgresSQL
+  - SQL Server
+  - python
+  - github
+  - html5
+  - bootstrap
+  - git
+  - mantisBt
+
+extra_skills:
+  - Desarrollo de microservicios (APIs) 
+  - Desarrollo WEB
+  - Consumo de  API`s Java Spring
+  - Kotlin
+
+
